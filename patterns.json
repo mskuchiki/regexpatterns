@@ -13,7 +13,7 @@
     {
       "type": "agravos",
       "pattern1": "(interpor|interpõe|apresentar|opor|presente|tempestivamente)[\\s\\w\\W\\n\\r]{1,6}a\\s*g\\s*r\\s*a\\s*v\\s*o[\\s\\w\\W\\n\\r]{1,6}r\\s*e\\s*c\\s*u\\s*r\\s*s\\s*o[\\s\\w\\W\\n\\r]{1,6}e\\s*s\\s*p\\s*e\\s*c\\s*i\\s*a\\s*l",
-      "pattern2": "(interpor|interpõe|apresentar|opor|presente|tempestivamente)[\\s\\w\\W\\n\\r]{1,6}agravo"
+      "pattern2": "(interpor|interpõe|apresentar|opor|presente|tempestivamente)[\\s\\w\\W\\n\\r]{1,6}agravo",
       "subpattern1": "(art|c\\/c)[\\s\\w\\W\\n\\r]{1,8}1\\.042"
     }
   ]

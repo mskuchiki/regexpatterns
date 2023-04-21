@@ -9,7 +9,7 @@
       "type": "contraminuta",
       "pattern1": "(sua|apresentar)[\\s\\w\\W\\n\\r]{1,8}(contraminuta|contrarrazões)",
       "pattern2": "certifico que decorreu o prazo legal.*resposta[\\s\\w\\W\\n\\r]{1,8}(recurso|agravo)"
-    }
+    },
     {
       "type": "agravos",
       "pattern1": "(interpor|interpõe|apresentar|opor|presente|tempestivamente)[\\s\\w\\W\\n\\r]{1,6}a\\s*g\\s*r\\s*a\\s*v\\s*o[\\s\\w\\W\\n\\r]{1,6}r\\s*e\\s*c\\s*u\\s*r\\s*s\\s*o[\\s\\w\\W\\n\\r]{1,6}e\\s*s\\s*p\\s*e\\s*c\\s*i\\s*a\\s*l",

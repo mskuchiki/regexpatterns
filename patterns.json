@@ -8,7 +8,7 @@
     {
       "type": "contraminuta",
       "pattern1": "(sua|apresentar)[\\s\\w\\W\\n\\r]{1,8}(contraminuta|contrarrazões)",
-      "pattern2": "certifico que decorreu o prazo legal sem apresentação de resposta[\\s\\w\\W\\n\\r]{1,8}agravo"
+      "pattern2": "certifico que decorreu o prazo legal.*resposta[\\s\\w\\W\\n\\r]{1,8}(recurso|agravo)"
     }
   ]
 }

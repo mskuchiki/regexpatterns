@@ -1,0 +1,14 @@
+{
+  "data":
+  [
+    {
+      "type": "retratacao",
+      "pattern1: "mantenho\sa[\s\w\W\n\r]{1,8}decisão[\s\w\W\n\r]{1,8}agravada[\s\w\W\n\r]{1,8}por[\s\w\W\n\r]{1,8}seus[\s\w\W\n\r]{1,8}própios"
+    },
+    {
+      "type": "contraminuta",
+      "pattern1": "(sua|apresentar)[\s\w\W\n\r]{1,8}(contraminuta|contrarrazões)"
+      "pattern2: "certifico que decorreu o prazo legal sem apresentação de resposta[\s\w\W\n\r]{1,8}agravo"
+    }
+  ]
+}

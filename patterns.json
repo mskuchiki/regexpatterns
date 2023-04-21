@@ -3,7 +3,7 @@
   [
     {
       "type": "retratacao",
-      "pattern1": "mantenho\\sa[\\s\\w\\W\\n\\r]{1,8}decisão[\\s\\w\\W\\n\\r]{1,8}agravada[\\s\\w\\W\\n\\r]{1,8}por[\\s\\w\\W\\n\\r]{1,8}seus[\\s\\w\\W\\n\\r]{1,8}própios"
+      "pattern1": "mantenho a\\(s\\) decisão\\(ões\\) agravada\\(s\\) por seus próprios"
     },
     {
       "type": "contraminuta",

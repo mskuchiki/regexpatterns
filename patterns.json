@@ -16,7 +16,7 @@
 		"arext": "(interpor|interpõe|apresentar|opor|manifestar|presente|seguinte|tempestiv|prazo legal|seu|anexo|incluso)[\\s\\w\\W\\n\\r]{1,80}a\\s*g\\s*r\\s*a\\s*v\\s*o[\\s\\w\\W\\n\\r]{1,6}r\\s*e\\s*c\\s*u\\s*r\\s*s\\s*o[\\s\\w\\W\\n\\r]{1,10}e\\s*x\\s*t\\s*r\\s*a\\s*o\\s*r\\s*d\\s*i\\s*n\\s*á\\s*r\\s*i\\s*o",
 		"gen_ag": "(interpor|interpõe|apresentar|opor|manifestar|presente|seguinte|tempestiv|prazo legal|seu|anexo|incluso)[\\s\\w\\W\\n\\r]{1,80}a\\s*g\\s*r\\s*a\\s*v\\s*o",
 		"cm_check": "(resposta|contraminuta|contrarrazões|contra razões)[\\s\\w\\W\\n\\r]{1,10}agravo",
-		"artigo-1042": "(art|c\\/c)[\\s\\w\\W\\n\\r]{1,10}1[\\.]{0,1}042",
+		"artigo_1042": "(art|c\\/c)[\\s\\w\\W\\n\\r]{1,10}1[\\.]{0,1}042",
 		"cmr": "(interpor|interpõe|apresentar|opor|manifestar|presente|seguinte|tempestiv|prazo legal|sua|anexa|inclusa)[\\s\\w\\W\\n\\r]{1,80}(resposta|contraminuta|contrarrazões)",
 		"dec_cm": "certifico que decorreu o prazo legal.*resposta[\\s\\w\\W\\n\\r]{1,10}(recurso|agravo)"
 	}]

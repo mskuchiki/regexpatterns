@@ -3,7 +3,7 @@
 		"ac_ap": "relatados e discutidos estes autos[\\s\\w\\W\\n\\r]{1,10}[\\s\\w\\W\\n\\r]{1,10}apelação[\\s\\w\\W\\n\\r]{1,10}cível",
 		"ac_ag_ins": "relatados e discutidos estes autos[\\s\\w\\W\\n\\r]{1,10}agravo[\\s\\w\\W\\n\\r]{1,10}de[\\s\\w\\W\\n\\r]{1,10}instrumento",
 		"ac_ed": "relatados e discutidos estes autos[\\s\\w\\W\\n\\r]{1,10}embargos[\\s\\w\\W\\n\\r]{1,10}declaração",
-		"ac_ai": "relatados e discutidos estes autos[\\s\\w\\W\\n\\r]{1,10}agravo[\\s\\w\\W\\n\\r]{1,10}(interno|regimental)",
+		"ac_ag_int": "relatados e discutidos estes autos[\\s\\w\\W\\n\\r]{1,10}agravo[\\s\\w\\W\\n\\r]{1,10}(interno|regimental)",
 		"ed": "(interpor|interpõe|apresentar|opor|manifestar|presente|seguinte|tempestiv|prazo legal|seu|anexo|incluso)[\\s\\w\\W\\n\\r]{1,10}embargos[\\s\\w\\W\\n\\r]{1,10}(declaração|declaratórios)",
 		"ai": "(interpor|interpõe|apresentar|opor|manifestar|presente|seguinte|tempestiv|prazo legal|seu|anexo|incluso)[\\s\\w\\W\\n\\r]{1,10}agravo[\\s\\w\\W\\n\\r]{1,10}(interno|regimental)",
 		"resp": "(interpor|interpõe|apresentar|opor|manifestar|presente|seguinte|tempestiv|prazo legal|seu|anexo|incluso)[\\s\\w\\W\\n\\r]{1,80}r\\s*e\\s*c\\s*u\\s*r\\s*s\\s*o[\\s\\w\\W\\n\\r]{1,6}e\\s*s\\s*p\\s*e\\s*c\\s*i\\s*a\\s*l",

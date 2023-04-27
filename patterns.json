@@ -10,7 +10,7 @@
 		"resp": "(interpor|interpõe|apresentar|opor|manifestar|oferecer|presente|seguinte|tempestiv|expor as razões|seu|anexo|incluso)[\\s\\w\\W\\n\\r]{1,24}r\\s*e\\s*c\\s*u\\s*r\\s*s\\s*o[\\s\\w\\W\\n\\r]{1,8}e\\s*s\\s*p\\s*e\\s*c\\s*i\\s*a\\s*l",
 		"post_resp": "r\\s*e\\s*c\\s*u\\s*r\\s*s\\s*o[\\s\\w\\W\\n\\r]{1,16}e\\s*s\\s*p\\s*e\\s*c\\s*i\\s*a\\s*l[\\s\\w\\W\\n\\r]{1,16}(em face)",
 		"rext": "(interpor|interpõe|apresentar|opor|manifestar|oferecer|presente|seguinte|tempestiv|expor as razões|seu|anexo|incluso)[\\s\\w\\W\\n\\r]{1,24}r\\s*e\\s*c\\s*u\\s*r\\s*s\\s*o[\\s\\w\\W\\n\\r]{1,8}e\\s*x\\s*t\\s*r\\s*a\\s*o\\s*r\\s*d\\s*i\\s*n\\s*á\\s*r\\s*i\\s*o",
-		"post_rext": "r\\s*e\\s*c\\s*u\\s*r\\s*s\\s*o[\\s\\w\\W\\n\\r]{1,16}e\\s*x\\s*t\\s*r\\s*a\\s*o\\s*r\\s*d\\s*i\\s*n\\s*á\\s*r\\s*i\\s*o[\\s\\w\\W\\n\\r]{1,16}(em face)"
+		"post_rext": "r\\s*e\\s*c\\s*u\\s*r\\s*s\\s*o[\\s\\w\\W\\n\\r]{1,16}e\\s*x\\s*t\\s*r\\s*a\\s*o\\s*r\\s*d\\s*i\\s*n\\s*á\\s*r\\s*i\\s*o[\\s\\w\\W\\n\\r]{1,16}(em face)",
 		"crm": "(interpor|interpõe|apresentar|opor|manifestar|oferecer|presente|seguinte|tempestiv|expor as razões|sua|anexa|inclusa)[\\s\\w\\W\\n\\r]{1,24}(resposta|contraminuta|contra minuta|contrarrazões|contra razões|contra-razões|contra razão|impugnação)[\\s\\w\\W\\n\\r]{1,32}",
 		"post_crm": "(resposta|contraminuta|contra minuta|contrarrazões|contra razões|contra-razões|contra razão|impugnação)[\\s\\w\\W\\n\\r]{1,8}recurso[\\s\\w\\W\\n\\r]{1,8}(especial|extraordinário)[\\s\\w\\W\\n\\r]{1,8}(em face)",
 		"dec_cr": "certifico(.*|\\r\\n|\\s*)que(.*|\\r\\n|\\s*)decorreu(.*|\\r\\n|\\s*)o(.*|\\r\\n|\\s*)prazo(.*|\\r\\n|\\s*)legal(.*|\\r\\n|\\s*)sem(.*|\\r\\n|\\s*)apresentação(.*|\\r\\n|\\s*)de(.*|\\r\\n|\\s*)contrarrazões",
